@@ -2,7 +2,7 @@
 
 A simple and user-friendly tool for converting text file encodings, with support for multiple language interfaces.
 
-![Demo Screenshot](https://via.placeholder.com/800x450.png?text=Text+Encoding+Converter+Demo)
+![Demo Screenshot](images/demo.png)
 
 ## Features
 
